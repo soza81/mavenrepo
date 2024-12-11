@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-11-26T11:59:55 IST" name="Suite" finished-at="2024-11-26T12:01:10 IST" duration-ms="74715">
+    <groups>
+    </groups>
+    <test started-at="2024-11-26T11:59:55 IST" name="Test" finished-at="2024-11-26T12:01:10 IST" duration-ms="74715">
+      <class name="testScenarios.CheckBoxAndRadBtns">
+        <test-method signature="radChk()[pri:0, instance:testScenarios.CheckBoxAndRadBtns@291ae]" started-at="2024-11-26T12:00:20 IST" name="radChk" finished-at="2024-11-26T12:00:42 IST" duration-ms="22113" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- radChk -->
+      </class> <!-- testScenarios.CheckBoxAndRadBtns -->
+      <class name="testScenarios.HandlingDynData">
+        <test-method signature="dynData()[pri:0, instance:testScenarios.HandlingDynData@3c407114]" started-at="2024-11-26T11:59:55 IST" name="dynData" finished-at="2024-11-26T12:00:20 IST" duration-ms="24270" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- dynData -->
+      </class> <!-- testScenarios.HandlingDynData -->
+      <class name="testScenarios.DatePicker">
+        <test-method signature="selDate()[pri:0, instance:testScenarios.DatePicker@61df66b6]" started-at="2024-11-26T12:00:42 IST" name="selDate" finished-at="2024-11-26T12:00:50 IST" duration-ms="8697" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- selDate -->
+      </class> <!-- testScenarios.DatePicker -->
+      <class name="testScenarios.DragAndDrop">
+        <test-method signature="MousActions()[pri:0, instance:testScenarios.DragAndDrop@16ec5519]" started-at="2024-11-26T12:00:58 IST" name="MousActions" finished-at="2024-11-26T12:01:10 IST" duration-ms="11581" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- MousActions -->
+      </class> <!-- testScenarios.DragAndDrop -->
+      <class name="testScenarios.SwitchingWin">
+        <test-method signature="SwitchWindows()[pri:0, instance:testScenarios.SwitchingWin@50eac852]" started-at="2024-11-26T12:00:50 IST" name="SwitchWindows" finished-at="2024-11-26T12:00:58 IST" duration-ms="7995" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SwitchWindows -->
+      </class> <!-- testScenarios.SwitchingWin -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

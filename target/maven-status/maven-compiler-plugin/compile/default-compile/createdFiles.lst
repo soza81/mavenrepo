@@ -1,0 +1,5 @@
+testScenarios\DragAndDrop.class
+testScenarios\DatePicker.class
+testScenarios\CheckBoxAndRadBtns.class
+testScenarios\HandlingDynData.class
+testScenarios\SwitchingWin.class
